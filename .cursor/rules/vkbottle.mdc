@@ -1,0 +1,9 @@
+---
+description: Бот VK на vkbottle
+alwaysApply: true
+---
+Пиши бота на vkbottle 4.x.
+Перед кодом обработчиков, клавиатур и API открой
+https://vkbottle.readthedocs.io/ru/latest/
+и следуй актуальному API этой версии.
+Токен читай из переменной окружения, не пиши его в коде.
